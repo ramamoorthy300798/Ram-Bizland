@@ -1,0 +1,203 @@
+body{
+    height: 8981px;
+    background-image: url('../front-end/welcome.png')
+}
+
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+
+}
+#quick-links{
+    background-color: #106eea99;
+    height: 40px;
+}
+
+#header{
+    background-color: #ff0000a3;
+    height: 85px;
+}
+
+#banner{
+    background-color: #0000ff8f;
+    height: 450px;
+}
+
+#highlights{
+    height: 364px;
+    background-color: #ff0000a3;
+    
+
+}
+#highlights .f-container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+#highlights .f-item{
+    background-color: #fff;
+    flex-basis: 15%;
+    padding: 15px;
+    box-shadow: #fff 0px 0px 10px;
+    border-radius: 10px;
+}
+
+#about{
+    height: 813px;
+    background-color: #106eea99;
+}
+
+#skills{
+    height: 280px;
+    background-color: #ff0000a3;
+}
+
+#statistics{
+    height: 350px;
+    background-color: #106eea99;
+}
+#statistics .f-container{
+    display: flex;
+    justify-content: space-around;
+}
+#statistics .f-item{
+    flex-basis: 10%;
+    background-color: #fff;
+    box-shadow: #fff 0 0 10px;
+    border-radius: 8px;
+}
+
+#clients{
+    height: 100px;
+    background-color:#ff0000a3 ;
+}
+#clients .f-container{
+    display: flex;
+    justify-content: space-around;
+}
+#clients .f-item{
+    flex-basis: 15%;
+    box-shadow: #fff 0 0 15px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+#service{
+    height: 995px;
+    background-color: #106eea99 ;
+    
+}
+#service .section-tittle{
+    height: 50px;
+}
+#service .section-content .f-container  {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 150px;
+    margin: 160px;
+}
+    
+#service .section-content .f-item{
+    background-color: #fff;
+    flex-basis: 30%;
+    border-radius: 8px;
+    box-shadow: rgb(172, 168, 168) 0px 0px 10px;
+    margin-bottom: 250px;
+    
+    
+   
+}
+
+#testimonials{
+     height:198px ;
+     background-color: #ff0000a3;
+}
+
+#portfolio{
+    height: 1555px;
+    background-color: #106eea99;
+}
+
+#team{
+    height: 696px;
+    background-color: #ff0000a3; 
+}
+#team .section-tittle{
+    height: 50px;
+}
+#team .f-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 150px;
+   
+}
+#team .f-item{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: #fff 0 0 15px;
+    flex-basis: 15%;
+}
+
+#pricing{
+    height: 850px;
+    background-color: #106eea99;
+}
+
+#pricing .section-tittle{
+    height: 237px;
+}
+#pricing .section-type .f-container{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    
+}
+#pricing .section-type .f-item{
+    background-color: #fff;
+    flex-basis: 10%;
+    border-radius: 8px;
+    box-shadow: rgb(121, 107, 107) 0px 0px 15px;
+    padding: 50px;
+   
+}
+
+#faq{
+    
+    height: 620px;
+    background-color: #ff0000a3;
+}
+
+
+#contact{
+    height: 1050px;
+    background-color: #106eea99; 
+}
+
+#newsletter{
+    
+    height: 280px;
+    background-color: #ff0000a3;
+}
+
+#footer{
+    height: 350px;
+    background-color: #106eea99;
+    
+}
+#footer .f-container{
+    display: flex;
+    justify-content: space-around;
+}
+#footer .f-item{
+    flex-basis: 30px;
+    background-color: #fff;
+    padding: 55px;
+}
+
+#legals{
+    height: 30px;
+    background-color: #ff0000a3;
+
+}
